@@ -1,0 +1,50 @@
+service: nearst-webhooks-tester
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs16.x
+  timeout: 25
+  region: eu-west-1
+  stage: production
+  environment:
+    TABLE_NAME: ${self:service}
+    APP_URL: !GetAtt HttpApi.ApiEndpoint
+  deploymentMethod: direct
+  lambdaHashingVersion: 20201221
+  iam:
+    role:
+      statements: # TODO: define IAMs per function
+        - Effect: Allow
+          Action: [ "dynamodb:*" ]
+          Resource: [ "*" ]
+
+functions:
+  home:
+    handler: functions/home.handler
+    events:
+      - httpApi:
+          path: /
+          method: any
+  webhook:
+    handler: functions/webhook.handler
+    events:
+      - httpApi:
+          path: /webhook
+          method: post
+
+resources:
+  Resources:
+    Table:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:service}
+        AttributeDefinitions:
+          - AttributeName: id
+            AttributeType: S
+        BillingMode: PAY_PER_REQUEST
+        KeySchema:
+          - AttributeName: id
+            KeyType: HASH
