@@ -1,0 +1,524 @@
+[
+  {
+    "id": "airpos",
+    "label": "AirPOS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "batchline",
+    "label": "Batchline",
+    "vendor": "Batch",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "benchmark",
+    "label": "Benchmark",
+    "vendor": "Benchmark Software",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "bigcommerce",
+    "label": "BigCommerce",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "bistrack",
+    "label": "BisTrack",
+    "vendor": "Epicor",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "biztracker",
+    "label": "BizTracker",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "booksolve",
+    "label": "BookSolve",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "brightpearl",
+    "label": "Brightpearl",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "bristec",
+    "label": "Bristec",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "checkout-for-mac",
+    "label": "Checkout for Mac",
+    "vendor": "Acctivity Group",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "cin7",
+    "label": "Cin7",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "clarity-success",
+    "label": "Clarity & Success",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "clover",
+    "label": "Clover",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "connectpos-for-magento",
+    "label": "ConnectPOS for Magento",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "consigncloud",
+    "label": "ConsignCloud",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "crs-epos",
+    "label": "CRS-epos",
+    "vendor": "CRS",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "csy-vector-pos",
+    "label": "CSY Vector POS",
+    "vendor": "CSY",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "cybertill",
+    "label": "Cybertill",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "davrich-opsuite",
+    "label": "DavRich OpSuite",
+    "vendor": "Davidson Richards",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "e-trackit",
+    "label": "E-Trackit",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "ecommonsense",
+    "label": "eCommonsense",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "edgepos",
+    "label": "EdgePOS",
+    "vendor": "Henderson Technology",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "emporio",
+    "label": "Emporio",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "epages",
+    "label": "ePages",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "epositive",
+    "label": "EPositive",
+    "vendor": "Nisa",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "eposnow",
+    "label": "EposNow",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "erply",
+    "label": "Erply",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "eurostop",
+    "label": "EuroStop",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "evopos",
+    "label": "EvoPOS",
+    "vendor": "TLM",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "fashione",
+    "label": "FashionE",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "gardlink",
+    "label": "Gardlink",
+    "vendor": "Gardners",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "goodtill",
+    "label": "GoodTill",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "htec",
+    "label": "HTEC",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "icrtouch",
+    "label": "ICRTouch",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "ikentoo",
+    "label": "iKentoo",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "ims",
+    "label": "IMS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "its",
+    "label": "ITS",
+    "vendor": "ITRetail",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "kerridge",
+    "label": "Kerridge",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "kounta",
+    "label": "Kounta",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "kwi",
+    "label": "KWI",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "lightspeed-pos",
+    "label": "Lightspeed POS",
+    "vendor": "Lightspeed",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "ls-retail",
+    "label": "LS Retail",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "magento",
+    "label": "Magento",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "magestore",
+    "label": "Magestore",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "merlinsoft",
+    "label": "MerlinSoft",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "microsoft-dynamics",
+    "label": "Microsoft Dynamics",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "multepos",
+    "label": "MultEPoS",
+    "vendor": "EMIS",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "newstore",
+    "label": "NewStore",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "nuepos",
+    "label": "NuEPOS",
+    "vendor": "NuEPOS Ltd",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "odoo",
+    "label": "Odoo",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "oliverpos",
+    "label": "OliverPOS",
+    "vendor": "Oliver",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "opus",
+    "label": "Opus",
+    "vendor": "Opus Retail",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "oracle-xstore",
+    "label": "Oracle XStore",
+    "vendor": "Oracle",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "ors",
+    "label": "ORS",
+    "vendor": "Open Retail Solutions",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "panda-epos",
+    "label": "Panda EPOS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "pharmatill",
+    "label": "Pharmatill",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "phorest",
+    "label": "Phorest",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "php-point-of-sale",
+    "label": "PHP Point of Sale",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "positive-solutions",
+    "label": "Positive Solutions",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "premier-epos",
+    "label": "Premier EPOS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "pursuit",
+    "label": "Pursuit",
+    "vendor": "Pursuit Software",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "quickbooks-pos",
+    "label": "Quickbooks POS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "rba",
+    "label": "RBA",
+    "vendor": "Retail Business Applications",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "runit",
+    "label": "Runit",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "seanic",
+    "label": "Seanic",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "shopify",
+    "label": "Shopify",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "shoptill-e",
+    "label": "ShopTill-E",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "shopwave",
+    "label": "ShopWave",
+    "vendor": "ShopWave",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "sitoo",
+    "label": "Sitoo",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "square-pos",
+    "label": "Square POS",
+    "vendor": "Square",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "squarespace-commerce",
+    "label": "Squarespace Commerce",
+    "vendor": "Squarespace",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "sumup-pos",
+    "label": "SumUp POS",
+    "vendor": "SumUp",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "swoopos",
+    "label": "SwooPOS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "tlm",
+    "label": "TLM",
+    "vendor": "TLM",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "trims",
+    "label": "TRIMS",
+    "vendor": "TouchRetail",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "vend",
+    "label": "Vend",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "venditan-",
+    "label": "Venditan ",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "visualsoft",
+    "label": "VisualSoft",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "vme",
+    "label": "VME",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "wix-commerce",
+    "label": "WIX Commerce",
+    "vendor": "WIX",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "woocommerce",
+    "label": "WooCommerce",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "wordpress",
+    "label": "Wordpress",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "wrs",
+    "label": "WRS",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "yith",
+    "label": "YITH",
+    "vendor": null,
+    "type": "point-of-sale"
+  },
+  {
+    "id": "zettle-(izettle)",
+    "label": "Zettle (iZettle)",
+    "vendor": "Zettle by PayPal",
+    "type": "point-of-sale"
+  },
+  {
+    "id": "ftp",
+    "label": "Custom integration (FTP)",
+    "vendor": null,
+    "type": "generic"
+  },
+  {
+    "id": "other",
+    "label": "Other",
+    "vendor": null,
+    "type": "generic"
+  }
+]

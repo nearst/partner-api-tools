@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# vercel
+.vercel
+/.next/
+/out/
+
+# misc
+.DS_Store
+*.pem
+*.log
